@@ -38,6 +38,19 @@
 
 <div>
   <h2>User levels and functionalities are follows</h2>
+  <dl>
+    <dt>HR Manager</dt>
+    <ol><li>Add new departments and designations 
+</li>
+      <li>Add new Employees and allocate them to available departments and designations
+</li>
+      <li>Search Employee details based on department, designations, name, EPF number etc.
+</li>
+    </ol>
+    <dt>Admin</dt><ol><li>Create a new account (HR Manager and HR Assistant)
+</li></ol>
+  
+  </dl>
 </div>
 
 
