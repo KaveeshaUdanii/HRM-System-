@@ -4,7 +4,7 @@ Introduction
 System Requirements
 	Operating System: Windows 10 or later, macOS 10.15 or later
 	Java: JDK 11 or later
-	NetBeans: Version 12 or later
+	NetBeans: Version 12 or later 
 	Database: MySQL or SQL Server (optional configuration)
 
 Open Project in NetBeans:
