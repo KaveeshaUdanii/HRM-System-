@@ -1,4 +1,4 @@
-<H1>HRM System User Manual</H1>
+<H1 align="center">HRM System User Manual</H1>
 
 
 
