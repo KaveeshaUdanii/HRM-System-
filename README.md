@@ -24,15 +24,15 @@
 
 <div>
   <dl>
-    <dt>Open Project in NetBeans:
-</dt>
+    <h2>Open Project in NetBeans:
+</h2>
     <dd>Launch NetBeans.
 </dd>
     <dd>Go to File > Open Project and select the cloned repository.
 </dd>
   </dl>
-  <dt>Build and Run:
-</dt>
+  <h2>Build and Run:
+</h2>
   <dd>Click on the "Run" button in NetBeans to build and run the application.</dd>
 </div>
 
