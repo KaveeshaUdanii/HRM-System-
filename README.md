@@ -1,3 +1,5 @@
+HRM System User Manual
+
 Introduction
 	Welcome to the HRM System! This user manual will guide you through the features and functionalities of the system.
 
